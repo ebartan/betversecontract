@@ -1,15 +1,16 @@
 # Used to deploy to testnets
-export HDWALLET_MNEMONIC=''
+export HDWALLET_MNEMONIC='rail tell lawn view hedgehog school wrist half pride faith bounce always'
+#rail tell lawn view hedgehog school wrist half pride faith bounce always
 
 # Used to deploy to testnets
-export INFURA_API_KEY='https://polygon-mainnet.infura.io/v3/8c35438a48744d899b7ec73bbe969b18'
+export INFURA_API_KEY='8c35438a48744d899b7ec73bbe969b188'
 
 # Used for verifying contracts on Etherscan
-export ETHERSCAN_API_KEY=''
+export ETHERSCAN_API_KEY='TC8KZUTFC1FW6JUNFDHSDTN1K6XP3SM3UK'
 
 # Required for forking
 export ALCHEMY_URL='https://eth-mainnet.alchemyapi.io/v2/w_cJ_9SAdhySx95BgPI1e_EIpZkNQzic'
-export FORK_ENABLED=''
+export FORK_ENABLED='true'
 
 # Used to hide deploy logs
 export HIDE_DEPLOY_LOG=''
